@@ -1,12 +1,14 @@
-# Proyecto P15
+# Proyecto P15: Sweet Lift Taxi
 
-Descripción breve del proyecto P15 de ciencia de datos.
+Análisis de datos de viajes en taxi para optimizar rutas y precios.
 
 ## Objetivo
-Explicar el objetivo principal del análisis realizado en este proyecto.
+Desarrollar modelos para mejorar la eficiencia y rentabilidad del servicio de taxi.
 
 ## Estructura
-- Notebooks y archivos de datos relacionados.
+- Notebooks de análisis
+- Archivos de datos de viajes
+- Reportes de optimización
 
 ## Cómo ejecutar
 Abre el notebook principal y sigue las instrucciones.
